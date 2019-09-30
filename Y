@@ -2,3 +2,4 @@ int i = 20;
 int a = 5;
 //parth vyas 19c900035//
 
+can also add int z=i*a;
